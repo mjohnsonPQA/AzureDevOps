@@ -93,5 +93,5 @@ stages:
         ConnectionType: 'AzureRM'
         azureSubscription: 'Azure subscription 1(5c54b0ce-07df-433e-ad00-acae73cd7df8)'
         appType: 'webApp'
-        WebAppName: 'bnkYAML'
+        WebAppName: 'DevOpsTESTLIL'
         packageForLinux: '$(System.ArtifactsDirectory)/**/*.zip'
