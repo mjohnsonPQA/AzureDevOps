@@ -13,6 +13,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "myWebDeploy", "myWebDeploy\myWebDeploy.deployproj", "{3DA4FB33-FC70-4364-A177-CFBE2B9BA30F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "myNewDadApp", "myNewDadApp\myNewDadApp.csproj", "{8307A449-408A-48AE-8040-04F19AC4A147}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "myAPI", "myAPI\myAPI.csproj", "{500F13E2-7A70-4537-A716-C2952933CCBA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{3DA4FB33-FC70-4364-A177-CFBE2B9BA30F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DA4FB33-FC70-4364-A177-CFBE2B9BA30F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3DA4FB33-FC70-4364-A177-CFBE2B9BA30F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8307A449-408A-48AE-8040-04F19AC4A147}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8307A449-408A-48AE-8040-04F19AC4A147}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8307A449-408A-48AE-8040-04F19AC4A147}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8307A449-408A-48AE-8040-04F19AC4A147}.Release|Any CPU.Build.0 = Release|Any CPU
+		{500F13E2-7A70-4537-A716-C2952933CCBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{500F13E2-7A70-4537-A716-C2952933CCBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{500F13E2-7A70-4537-A716-C2952933CCBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{500F13E2-7A70-4537-A716-C2952933CCBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
